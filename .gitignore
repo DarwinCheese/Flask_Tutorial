@@ -1,8 +1,10 @@
 
-venv/Scripts/
-
 venv/
 
 \.idea/
 
-__pycache__/app\.cpython-37\.pyc
+__pycache__/
+
+*.pyc
+
+instance/
